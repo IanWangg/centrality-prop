@@ -6,6 +6,9 @@ graph
   multigraph 1
   multigraph 1
   multigraph 1
+  multigraph 1
+  multigraph 1
+  multigraph 1
   directed 0
   node
   [

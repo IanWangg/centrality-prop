@@ -6,6 +6,9 @@ graph [
   multigraph 1
   multigraph 1
   multigraph 1
+  multigraph 1
+  multigraph 1
+  multigraph 1
   node [
     id 1
     label "100monkeystyping.com"
